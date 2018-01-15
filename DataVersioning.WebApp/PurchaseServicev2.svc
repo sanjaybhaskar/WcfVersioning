@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DataVersioning.WebApp.PurchaseServicev2" CodeBehind="PurchaseServicev2.svc.cs" %>
